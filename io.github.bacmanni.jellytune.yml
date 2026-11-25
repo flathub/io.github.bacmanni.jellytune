@@ -38,8 +38,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/bacmanni/jellytune.git
-        commit: 48f78c7ee229652b471959cbaab73b713509c7c6
-        tag: v1.2.4
+        commit: 3c425faf36a15c024a4c3af6794c49c62fe9b308
+        tag: v1.2.5
       - gnome-nuget-sources.json
       - shared-nuget-sources.json
       
